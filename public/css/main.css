@@ -13518,8 +13518,12 @@ code {
   .map-accordion-panel-title {
     clear: both;
   }
+  .map-challenge-title {
+    clear: both;
+  }
   .map-block-time {
     float: right;
+    clear: left;
   }
 }
 .map-block-description {
